@@ -12,3 +12,4 @@ While this appears to be a step [in the right direction](https://www.nytimes.com
 1. [College Level Characteristics from the IPEDS Database and the College Scorecard](https://opportunityinsights.org/data/?geographic_level=100&topic=0&paper_id=0#resource-listing) - mrc_table10; Opportunity Insights
 2. [Baseline Cross-Sectional Estimates of Child and Parent Income Distributions by College](https://opportunityinsights.org/data/?geographic_level=100&topic=0&paper_id=0#resource-listing) - mrc_table02; Opportunity Insights
 3. [CollegeScorecard Data](https://collegescorecard.ed.gov/data/) - MERGED2008_09_PP.csv, column __PCTPELL__
+4. [School OPE ID Data](https://www2.ed.gov/documents/press-releases/03122018-fws.pdf)
